@@ -1,4 +1,5 @@
-
+// based on http://learningwebgl.com/blog/?p=370
+// ported to run on node-webgl
 // Set up SDL window for rendering
 SDL = require('sdl');
 SDL.init(SDL.INIT.VIDEO);
