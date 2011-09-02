@@ -1,11 +1,11 @@
 {
   "author": "Tim Caswell <tim@creationix.com>",
-  "name": "com.creationix.minimason",
-  "description": "webOS client to minimason",
+  "name": "com.creationix.spin",
+  "description": "Spinning 3d Shapes in node",
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/creationix/com.creationix.minimason.git"
+    "url": "git://github.com/creationix/com.creationix.spin.git"
   },
   "engines": {
     "node": ">=v0.4.4"
